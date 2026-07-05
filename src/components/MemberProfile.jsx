@@ -37,7 +37,7 @@ const getMemberData = (id) => {
         Projects: 20,
         Internships: 15,
         Courses: 25,
-        CGPA: 8.5 / 10,
+        CGPA: 8.5 ,
       },
       linkedin: 'https://www.linkedin.com/in/vishaln24/',
       github: 'https://github.com/Vishal-46',
@@ -56,7 +56,7 @@ const getMemberData = (id) => {
         Projects: 65,
         Internships: 38,
         Courses: 280,
-        CGPA: 7.25 / 10,
+        CGPA: 7.25 ,
       },
       linkedin: 'https://linkedin.com/in/infancetony',
       github: 'https://github.com/infance-tony',
@@ -75,7 +75,7 @@ const getMemberData = (id) => {
         Projects: 18,
         Internships: 15,
         Courses: 26,
-        CGPA: 8.5 / 10,
+        CGPA: 8.5 ,
       },
       linkedin: 'https://linkedin.com/in/hamdhan-hussain',
       github: 'https://github.com/Hamdhusam',
@@ -94,7 +94,7 @@ const getMemberData = (id) => {
         Projects: 26,
         Internships: 14,
         Courses: 10,
-        CGPA: 8.75 / 10,
+        CGPA: 8.75 ,
       },
       linkedin: 'https://www.linkedin.com/in/aparna-suresh-79276235a',
       github: 'https://github.com/Aparna-stack-ux782',
@@ -113,7 +113,7 @@ const getMemberData = (id) => {
         Projects: 10,
         Internships: 5,
         Courses: 10,
-        CGPA: 8.41 / 10,
+        CGPA: 8.41 ,
       },
       linkedin: 'https://www.linkedin.com/in/nithisha-p-n-362067332',
       github: 'https://github.com/nithishanagarani',
@@ -132,7 +132,7 @@ const getMemberData = (id) => {
         Projects: 15,
         Internships: 30,
         Courses: 25,
-        CGPA: 9.25 / 10,
+        CGPA: 9.25 ,
       },
       linkedin: 'https://www.linkedin.com/in/sandofalin',
       github: 'https://github.com/Falin-dev',
@@ -151,7 +151,7 @@ const getMemberData = (id) => {
         Projects: 9,
         Internships: 8,
         Courses: 17,
-        CGPA: 7.8 / 10,
+        CGPA: 7.8 ,
       },
       linkedin: 'https://www.linkedin.com/in/jenish-s-4aa3692b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       github: 'https://github.com/jenish-prog',
@@ -170,12 +170,12 @@ const getMemberData = (id) => {
         Projects: 5,
         Internships: 3,
         Courses: 7,
-        CGPA: 7.5 / 10,
+        CGPA: 7.5 ,
       },
       linkedin: 'https://www.linkedin.com/in/abin-i',
       github: 'https://github.com/Abin-I',
       portfolio:'https://instagram.com/abin_i',
-      terminal: 'https://terminal.example.com',
+      terminal: 'https://terminal.bytebashblitz.org/profilev3/abin-i',
     }
   }
 
@@ -189,7 +189,7 @@ const getMemberData = (id) => {
         Projects: 10,
         Internships: 5,
         Courses: 5,
-        CGPA: 8.39 / 10,
+        CGPA: 8.39 ,
       },
       linkedin: 'https://www.linkedin.com/in/akshaya-libin-sibcy-l-155a04333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       github: 'https://github.com/akshaya-1806',
@@ -208,7 +208,7 @@ const getMemberData = (id) => {
         Projects: 4,
         Internships: 1,
         Courses: 2,
-        CGPA: 9.14 / 10,
+        CGPA: 9.14 ,
       },
       linkedin: 'https://www.linkedin.com/in/mohamed-arshiya-n-9a303a3aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       github: 'https://github.com/mohamedarshiya-n',
@@ -227,7 +227,7 @@ const getMemberData = (id) => {
         Projects: 16,
         Internships: 10,
         Courses: 15,
-        CGPA: 8.83 / 10,
+        CGPA: 8.83 ,
       },
       linkedin: 'https://www.linkedin.com/in/ajisha-vishnu',
       github: 'https://github.com/ajisha-vishnu',
@@ -246,7 +246,7 @@ const getMemberData = (id) => {
         Projects: 5,
         Internships: 3,
         Courses: 2,
-        CGPA: 8.18 / 10,
+        CGPA: 8.18 ,
       },
       linkedin: 'https://www.linkedin.com/in/jenimelbina-s',
       github: 'https://github.com/jenimelbina-S',
@@ -266,11 +266,11 @@ const getMemberData = (id) => {
         Projects: 6,
         Internships: 1,
         Courses: 2,
-        CGPA: 8.0 / 10,
+        CGPA: 8.0 ,
       },
       linkedin: 'https://terminal.bytebashblitz.org/profilev3/Ayisha%20Syed%20Ali',
       github: 'https://github.com/ayishahidha16-cmyk',
-      portfolio: 'https://instagram.com/_aysha_ayz',
+      portfolio:'https://instagram.com/_aysha_ayz',
       terminal: 'https://terminal.bytebashblitz.org/profilev3/ayishahidha16-cmyk',
     }
   }
@@ -285,7 +285,7 @@ const getMemberData = (id) => {
         Projects: 6,
         Internships: 0,
         Courses: 5,
-        CGPA: 8.86 / 10,
+        CGPA: 8.86 ,
       },
       linkedin: 'https://www.linkedin.com/in/linciya-sebastian-619a493a9?utm_source=share_via&utm_content=profile&utm_medium=member_android',
       github: 'https://github.com/linciya-s',
@@ -303,7 +303,7 @@ const getMemberData = (id) => {
         Projects: 10,
         Internships: 1,
         Courses: 15,
-        CGPA: 7.7 / 10,
+        CGPA: 7.7 ,
       },
       linkedin: 'https://www.linkedin.com/in/tharun-krishna-347b123a0?utm_source=share_via&utm_content=profile&utm_medium=member_android',
       github: 'https://github.com/tharunkrishna107-ship-it',
@@ -321,7 +321,7 @@ const getMemberData = (id) => {
         Projects: 10,
         Internships: 20,
         Courses: 10,
-        CGPA: 8.5 / 10,
+        CGPA: 8.5 ,
       },
       linkedin: 'https://www.linkedin.com/in/naveen-m-354887375',
       github: 'https://github.com/nrnnaveen',
@@ -386,7 +386,7 @@ const MemberProfile = () => {
               <div className={`bg-minecraft-green text-black text-center py-3 px-4 font-bold text-sm mb-4 border-2 border-black/50`}>
                 {member.role}
                 {member.type === 'captain' && (
-                  <div className="text-xs mt-1">😾 CAPTAIN BASH 😾</div>
+                  <div className="text-xs mt-1">👑 CLAN LEADER 👑</div>
                 )}
               </div>
 
@@ -421,7 +421,7 @@ const MemberProfile = () => {
                 {member.type === 'captain' && (
                   <div className="inline-block bg-red-700 text-white px-4 py-2 mt-2 border-2 border-red-900 shadow-lg">
                     <p className="text-sm font-bold minecraft-shadow">
-                      😾 CAPTAIN BASH 😾
+                    👑 CLAN LEADER 👑
                     </p>
                   </div>
                 )}
@@ -464,7 +464,7 @@ const MemberProfile = () => {
 
                   <div className="bg-black/30 p-4 border-2 border-minecraft-green text-center">
                     <div className="text-2xl font-bold text-minecraft-green minecraft-shadow">
-                      {member.stats?.Internship || 0}
+                      {member.stats?.Internships || 0}
                     </div>
                     <div className="text-minecraft-gray text-xs font-bold">
                       QUESTS COMPLETED
